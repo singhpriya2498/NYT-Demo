@@ -9,3 +9,7 @@ Libraries used -
 2. mdb datatables - v4.17.0
 3. ChartJS - v2.7.1
 4. Bootstrap - v4.0.0
+
+
+*issue* - 
+Sometimes NYT api gives Too Many Requests error.
